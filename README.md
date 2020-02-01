@@ -1,4 +1,4 @@
-# The Open Ecosystem Alliance
+# The Open Ecosystem Federation
 
 ## About
 
