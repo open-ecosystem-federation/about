@@ -6,7 +6,7 @@ A federation of parties exchanging semantically interpretable events, attributes
 
 Data is not the new oil, it is an unrefined, toxic tsunami and in this current point to point paradigm exchanging as much of it as we seem intent on is both harmful, and thankfully so inefficient and ineffective as to be impossible.
 
-There are so many sources of expertise to be tapped into, organisations and individuals.  Let them keep their data, we can borrow the expertise they already apply over it.  This will decrease the incidence of security and privacy problems, not to mention avoid territorial or mandate concerns.
+There are so many sources of expertise to be tapped into, organisations and individuals.  Let them keep their data, we can borrow the expertise they already apply over it.  This will decrease the incidence of security and privacy problems, not to mention help avoid territorial or mandate concerns.
 
 
 ## Our mission
