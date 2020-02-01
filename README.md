@@ -6,9 +6,9 @@ A federation of parties exchanging semantically interpretable events, attributes
 
 ## Our mission
 
-- to permit a party to make decisions based on the composition of distributed expertise
-- to reduce duplication in the storage of information
-- to reduce duplication in inference over information
-- to reduce the impact of IT on the environment
-- to save the cheerleader
-- to decrease the cost of administration over valuable and highly re-used insight and information 
+- permit parties to make decisions based on the composition of distributed expertise
+- reduce duplication in the storage of information
+- reduce duplication in inference over information
+- reduce the impact of IT on the environment
+- save the cheerleader
+- decrease the cost of administration over valuable and highly re-used insight and information 
