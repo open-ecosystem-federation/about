@@ -32,6 +32,6 @@ There are so many sources of expertise to be tapped into, organisations and indi
 ## History
 
 - 2019/11
-  - Published [Event-based Attribute Assurance Whitepaper](https://openidentityexchange.org/wp-content/uploads/2019/11/191101-Building-a-Trusted-Environment-Whitepaper-FINAL.pdf)
+  - OIX Published [Event-based Attribute Assurance Whitepaper](https://openidentityexchange.org/wp-content/uploads/2019/11/191101-Building-a-Trusted-Environment-Whitepaper-FINAL.pdf)
 - 2019/05 to 2019/08
-  - Attribute and Event exchange discovery workshops through the summer
+  - OIX Attribute and Event exchange discovery workshops through the summer
