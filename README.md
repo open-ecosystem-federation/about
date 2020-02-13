@@ -2,7 +2,7 @@
 
 ## About
 
-A federation of parties exchanging semantically interpretable events, attributes and distributed expressions of reasoning in wide-ranging ecosystems to harmonise the value in their respective business processes. We are building the next generation economy.
+A federation of parties exchanging semantically interpretable events, attributes and distributed expressions of reasoning in wide-ranging ecosystems to harmonise the value in their respective business processes. We are building the framework for sharing information whcih will form the foundation on top of which next generation economy will be built.
 
 Data is not the new oil, it is an unrefined, toxic tsunami and in this current point to point paradigm exchanging as much of it as we seem intent on is both harmful, and thankfully so inefficient and ineffective as to be impossible.
 
