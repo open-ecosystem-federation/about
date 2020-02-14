@@ -2,11 +2,15 @@
 
 ## About
 
-A federation of parties exchanging semantically interpretable events, attributes and distributed expressions of reasoning in wide-ranging ecosystems to harmonise the value in their respective business processes. We are building the framework for sharing information which will form the foundation on top of which the next generation economy can be built.
+We are a federation of parties across Central Government and the private sector with a shared vision of building a framework and set of open standards and rules for exchanging machine readable data.  All ecosystem participants will benefit either by sharing or selling the reasoning they have derived from the available data. 
 
-Data is not the new oil, it is an unrefined, toxic tsunami and in this current point to point paradigm exchanging as much of it as we seem intent on is both harmful, and thankfully so inefficient and ineffective as to be impossible.
+## Motivation
 
-There are so many sources of expertise to be tapped into, organisations and individuals.  Let them keep their data, we can borrow the expertise they already apply over it.  This will decrease the incidence of security and privacy problems and help avoid territorial or mandate concerns.
+Data is not the new oil, but rather more akin to the new plastic, where the current point to point paradigm for information exchange necessitates the retention of enormous amounts of data with little opportunity for data exploitation beyond the immediate point to point relationship.  
+
+An immediate example that offers significant and easily realisable value, is in the cross border supply chain space, where, once the OEF standard is adopted, participants in a supply chain consuming and presenting machine readable semantically interpretable events according to the agreed ecosystem rules, can significantly reduce the cost of the supply chain, while at the same time unlock previously unrealisable value opportunities through potential sale of expertise and data.  
+
+Applicable across a wide range of ecosystems, from cross border supply chains to distributed ecosystems of trust and identity, the ability to improve process and automatic reasoning, and the confidence inherent in the automatic corroboration of multiple data sources, will lay the foundation on top of which the next generation  economy can be built. reducing trade friction and allowing modern tax regimes and reduced friction border controls.
 
 
 ## Our mission
