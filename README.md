@@ -24,7 +24,7 @@ There are so many sources of expertise to be tapped into, organisations and indi
 - HM Revenue and Customs (HMRC)
 - Factern
 - Food Standards Authority (FSA)
-- Idean
+- Idemia
 - Future Borders
 - 
 - 
