@@ -10,7 +10,7 @@ Data is not the new oil, but rather more akin to the new plastic, where the curr
 
 An immediate example that offers significant and easily realisable value, is in the cross border supply chain space, where, once the OEF standard is adopted, participants in a supply chain consuming and presenting machine readable semantically interpretable events according to the agreed ecosystem rules, can significantly reduce the cost of the supply chain, while at the same time unlock previously unrealisable value opportunities through potential sale of expertise and data.  
 
-Applicable across a wide range of ecosystems, from cross border supply chains to distributed ecosystems of trust and identity, the ability to improve process and automatic reasoning, and the confidence inherent in the automatic corroboration of multiple data sources, will lay the foundation on top of which the next generation  economy can be built. reducing trade friction and allowing modern tax regimes and reduced friction border controls.
+Applicable across a wide range of ecosystems, from cross border supply chains to distributed ecosystems of trust and identity, the ability to improve process and automatic reasoning, and the confidence inherent in the automatic corroboration of multiple data sources, will lay the foundation on top of which the next generation economy can be built. 
 
 
 ## Our mission
