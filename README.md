@@ -2,7 +2,7 @@
 
 ## About
 
-We are a federation of parties across Central Government and the private sector with a shared vision of building a framework and set of open standards and rules for exchanging machine readable data.  All ecosystem participants will benefit either by sharing or selling the reasoning they have derived from the available data. 
+We are a federation of parties across Central Government and the private sector with a shared vision of building a framework based on open standards and rules for exchanging machine readable data.  All ecosystem participants will benefit either by sharing or selling the reasoning they have derived from the available data. 
 
 ## Motivation
 
