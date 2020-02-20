@@ -26,7 +26,7 @@ Applicable across a wide range of ecosystems, from cross border supply chains to
 ## The Federation
 
 - Factern
-- Food Standards Authority (FSA)
+- Food Standards Agency (FSA)
 - Future Borders
 - Government Digital Service (GDS)
 - HM Revenue and Customs (HMRC)
