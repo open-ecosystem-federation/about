@@ -19,8 +19,15 @@ We are a federation of parties across Government, the private sector and academi
 
 ## The Ecosystem Toolkit
 
-This is a work in progress, latest draft thoughts are currently emerging in an eight week alpha.
-Please see the [Alpha project repository](https://github.com/open-ecosystem-federation/federated-events-attributes-reasoning-alpha) and more specifically the [draft specification](https://github.com/open-ecosystem-federation/federated-events-attributes-reasoning-alpha/wiki/Draft-Specification).
+This is a **work in progress** - we are currently working through an eight week [Alpha project](https://github.com/open-ecosystem-federation/federated-events-attributes-reasoning-alpha).
+
+Links provided in this section at the time of writing will point to artefacts under development during the Alpha project.
+
+OEF will deliver an open Ecosystem Toolkit comprising two parts:
+
+* A [**technical specification**](https://github.com/open-ecosystem-federation/federated-events-attributes-reasoning-alpha/wiki/Draft-Specification)
+* A repeatable framework we are calling the [**rules of engagement**](https://github.com/open-ecosystem-federation/federated-events-attributes-reasoning-alpha/wiki/Draft-RoE)
+
 
 ## Motivation
 
@@ -41,7 +48,7 @@ See [motivation](motivation) for more background on why we are doing this.
 ## History
 
 - 2020/01 to 2020/03
-  - Future Borders and HMRC sponsor an eight week Alpha to build on the work in the OIX wihtepaper
+  - Future Borders and HMRC sponsor an eight week Alpha to build on the work in the OIX whitepaper
 - 2019/11
   - OIX Published [Event-based Attribute Assurance Whitepaper](https://openidentityexchange.org/wp-content/uploads/2019/11/191101-Building-a-Trusted-Environment-Whitepaper-FINAL.pdf)
 - 2019/05 to 2019/08
