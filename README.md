@@ -5,11 +5,6 @@
 We are a federation of parties across Government, the private sector and academia with a shared vision of building an ecosystem toolkit based on open technical standards and a repeatable framework of advice concerning governance, rules of engagement, legislation and ethics.  All ecosystem participants will benefit either by sharing or selling the reasoning they have derived from - or value they have added to - the information available to them.
 
 
-## Motivation
-
-See [motivation](motivation) for more background on why we are doing this.
-
-
 ## Our mission
 
 - maintain an open and collaborative approach across government, industry and academia
@@ -20,6 +15,10 @@ See [motivation](motivation) for more background on why we are doing this.
 - allow rapid decision making and inference over machine readable data
 - reduce the impact of IT on the environment
 - decrease the cost of administration over valuable and highly re-used insight and information
+
+## Motivation
+
+See [motivation](motivation) for more background on why we are doing this.
 
 
 ## The Federation
