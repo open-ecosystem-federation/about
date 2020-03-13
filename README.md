@@ -8,7 +8,7 @@ We are a federation of parties across Government, the private sector and academi
 ## Our mission
 
 - maintain an open and collaborative approach across government, industry and academia
-- build a set of composable parts comprising an [**ecosystem toolkit**](https://github.com/open-ecosystem-federation/federated-events-attributes-reasoning-alpha)
+- build a set of composable parts comprising an **ecosystem toolkit**
 - reduce the cost of moving information, things and people
 - permit parties to borrow due diligence and make decisions based on the composition of distributed expertise
 - reduce duplication in the storage of information
