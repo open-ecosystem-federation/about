@@ -2,19 +2,12 @@
 
 ## About
 
-We are a federation of parties across Central Government, the private sector and academia with a shared vision of building a framework based on open standards and rules for exchanging machine readable data.  All ecosystem participants will benefit either by sharing or selling the reasoning they have derived from - or value they have added to - the data available to them. 
+We are a federation of parties across Government, the private sector and academia with a shared vision of building an ecosystem toolkit based on open technical standards and a repeatable framework of advice concerning governance, rules of engagement, legislation and ethics.  All ecosystem participants will benefit either by sharing or selling the reasoning they have derived from - or value they have added to - the information available to them.
+
 
 ## Motivation
 
-Data is not the new oil, but rather more akin to the new plastic. The current data management paradigm relies on data schema that are specific to the applications that use them. This not only requires the retention of enormous amounts of data within each application, but duplicates information across applications that interact with the same entities. 
-
-Where data exchange between applications does occur, it is invariably either point to point or within a closed ecosystem. Each participating applications must conform (or integrate) their data schemas to the shared use case, while the data continues to derive considerable meaning from the context itself - for example, if only "trusted" applications participate in the ecosystem, the data exchanged within that ecosystem is by definition "trusted". As such, the incremental costs of both establishing and expanding data exchange mechanisms can be prohibitively expensive, and result in  little or no opportunity for data exploitation beyond their immediate context. 
-
-We believe that there is a need for a new data management paradigm that would help to address these issues, based on a rich, machine-readable expression of the metadata that describes, tracks and governs application-specific data.  The Open Ecosystem Federation aims to leverage common standards and establish shared protocols and 'rules of engagement' that foster the emergence of this new layer of data infrastructure.  
-
-An immediate example that offers significant and easily realisable value, is in the cross border supply chain space, where, once the OEF standard is adopted, participants in a supply chain consuming and presenting machine readable semantically interpretable events according to the agreed ecosystem rules, can significantly reduce the cost of the supply chain, while at the same time unlock previously unrealisable value opportunities through potential sale of expertise and data.  
-
-Applicable across a wide range of ecosystems, from cross border supply chains to distributed ecosystems of trust and identity, the ability to improve process and automatic reasoning, and the confidence inherent in the automatic corroboration of multiple data sources, will lay the foundation on top of which the next generation economy can be built. 
+See [motivation](motivation) for more background on why we are doing this.
 
 
 ## Our mission
@@ -23,9 +16,11 @@ Applicable across a wide range of ecosystems, from cross border supply chains to
 - reduce the cost of moving information, things and people
 - permit parties to borrow due diligence and make decisions based on the composition of distributed expertise
 - reduce duplication in the storage of information
+- reduce duplication of inference over information
 - allow rapid decision making and inference over machine readable data
 - reduce the impact of IT on the environment
 - decrease the cost of administration over valuable and highly re-used insight and information
+
 
 ## The Federation
 
@@ -36,6 +31,7 @@ Applicable across a wide range of ecosystems, from cross border supply chains to
 - HM Revenue and Customs (HMRC)
 - Idemia
 - [Recruiting...]
+
 
 ## History
 
