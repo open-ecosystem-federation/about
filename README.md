@@ -17,6 +17,11 @@ We are a federation of parties across Government, the private sector and academi
 - reduce the impact of IT on the environment
 - decrease the cost of administration over valuable and highly re-used insight and information
 
+## The Ecosystem Toolkit
+
+This is a work in progress, latest draft thoughts are currently emerging in an eight week alpha.
+Please see the [Alpha project repository](https://github.com/open-ecosystem-federation/federated-events-attributes-reasoning-alpha) and more specifically the [draft specification](https://github.com/open-ecosystem-federation/federated-events-attributes-reasoning-alpha/wiki/Draft-Specification).
+
 ## Motivation
 
 See [motivation](motivation) for more background on why we are doing this.
