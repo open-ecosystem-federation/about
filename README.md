@@ -62,8 +62,6 @@ Our hypotheses for OEF governance will be proved/disproved by the OIX Alpha proj
 
 1) Project administration, communications and collaboration within the Federation, onboarding and offboarding over OEF membership are all handled using Github and Github accounts.  Typically members are recommended in.
 
-Optionally the same mechanisms may be used within ecosystems created with our toolkit if that is sensible/desirable.
-
 2) The OEF core members will define the tiered entitlements of additional members
 
 3) Core members will need >= 75% majority to make decisions on onboarding and offboarding of participants
