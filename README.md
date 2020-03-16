@@ -36,13 +36,39 @@ See [motivation](motivation) for more background on why we are doing this.
 
 ## The Federation
 
+### Core members
+
+Core members are participants who either founded the OEF or who when eligible have been voted into core membership status.
+
+Any participant may be eligible for core membership based on contribution and general agreement between existing core members.
+
+At the time of writing the core members are:
+
 - Factern
 - Food Standards Agency (FSA)
 - Future Borders
-- Government Digital Service (GDS)
 - HM Revenue and Customs (HMRC)
+
+### Participants
+
+- Government Digital Service (GDS)
 - Idemia
 - [Recruiting...]
+
+
+## OEF Governance
+
+Our hypotheses for OEF governance will be proved/disproved by the OIX Alpha project.  At this time they are outlined below.
+
+1) Project administration, communications and collaboration within the Federation, onboarding and offboarding over OEF membership are all handled using Github and Github accounts.  Typically members are recommended in.
+
+Optionally the same mechanisms may be used within ecosystems created with our toolkit if that is sensible/desirable.
+
+2) The OEF core members will define the tiered entitlements of additional members
+
+3) Core members will need >= 75% majority to make decisions on onboarding and offboarding of participants
+
+4) Core members will need >= 75% majority to vote participants into core membership status
 
 
 ## History
