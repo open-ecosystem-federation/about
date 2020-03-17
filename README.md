@@ -2,7 +2,11 @@
 
 ## About
 
-We are a federation of parties across Government, the private sector and academia with a shared vision of building an ecosystem toolkit based on open technical standards and a repeatable framework of advice concerning governance, rules of engagement, legislation and ethics.  All ecosystem participants will benefit either by sharing or selling the reasoning they have derived from - or value they have added to - the information available to them.
+We are a federation of parties across Government, the private sector and academia.
+
+We have a shared vision of developing a repeatable toolkit to build flexible and scalable information ecosystems between participants who share a common domain of interest and are motivated to share signals about that domain, but who want neither to share a common information infrastructure nor to rely on fragile point-to-point messaging structures.
+
+The toolkit comprises two parts: a technical specification based on open standards and a default governance framework that addresses rules of engagement, legislation and ethics. 
 
 
 ## Our mission
