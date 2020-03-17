@@ -11,15 +11,12 @@ The toolkit comprises two parts: a technical specification based on open standar
 
 ## Our mission
 
-- maintain an open and collaborative approach across government, industry and academia
-- build a set of composable parts comprising an **ecosystem toolkit**
-- reduce the cost of moving information, things and people
-- permit parties to borrow due diligence and make decisions based on the composition of distributed expertise
-- reduce duplication in the storage of information
-- reduce duplication of inference over information
-- allow rapid decision making and inference over machine readable data
-- reduce the impact of IT on the environment
-- decrease the cost of administration over valuable and highly re-used insight and information
+The OEF’s mission is to establish and maintain an open and collaborative alliance across government, industry and academia that will:
+
+- develop an ecosystem toolkit comprising a set of composable parts that permits parties to share tokens of value about common domains of interest, thereby enabling rapid decision making and inference based on the machine-readable composition of distributed effort and expertise
+- deploy a reference implementation of the ecosystem toolkit 
+- promote the ecosystem toolkit as a mechanism to reduce the frictional cost of moving incremental information between parties; reduce the dependency on intermediate information infrastructure; reduce duplication in the administration of information; reduce duplication in the deployment of expertise and inference over that information; reduce the impact of IT on the environment 
+- maintain and evolve the ecosystem toolkit over time
 
 ## The Ecosystem Toolkit
 
