@@ -26,7 +26,7 @@ Links provided in this section at the time of writing will point to artefacts un
 
 OEF will deliver an open and repeatable Ecosystem Toolkit comprising two parts:
 
-* A [**technical specification**](https://github.com/open-ecosystem-federation/federated-events-attributes-reasoning-alpha/wiki/Draft-Specification)
+* A [**technical specification**](https://github.com/open-ecosystem-federation/federated-events-attributes-reasoning-alpha/wiki/Draft-Specification) based on open standards
 * A default governance framework we are calling the [**rules of engagement**](https://github.com/open-ecosystem-federation/federated-events-attributes-reasoning-alpha/wiki/Draft-RoE)
 
 Parties use their implementation of the OEF technical specification to declare both the signals that they control and the basis on which they will share them with other OEF compliant implementations. 
