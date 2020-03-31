@@ -6,7 +6,7 @@ We are a federation of parties across Government, the private sector and academi
 
 We have a shared vision of developing a repeatable toolkit to build flexible and scalable information ecosystems between participants who share a common domain of interest and are motivated to share signals about that domain, but who want neither to share a common information infrastructure nor to rely on fragile point-to-point messaging structures.
 
-The toolkit comprises two parts: a technical specification based on open standards and a default governance framework that addresses rules of engagement, legislation and ethics. 
+The toolkit comprises two parts: a technical specification based on open standards and a default governance framework that addresses rules of engagement, legislation and ethics.
 
 
 ## Our mission
@@ -14,8 +14,8 @@ The toolkit comprises two parts: a technical specification based on open standar
 The OEF’s mission is to establish and maintain an open and collaborative alliance across government, industry and academia that will:
 
 - **develop an ecosystem toolkit** comprising a set of composable parts that permits parties to share tokens of value about common domains of interest, thereby enabling rapid decision making and inference based on the machine-readable composition of distributed effort and expertise
-- **deploy a reference implementation** of the ecosystem toolkit 
-- **promote the ecosystem toolkit** as a mechanism to reduce the frictional cost of moving incremental information between parties; reduce the dependency on intermediate information infrastructure; reduce duplication in the administration of information; reduce duplication in the deployment of expertise and inference over that information; reduce the impact of IT on the environment 
+- **deploy a reference implementation** of the ecosystem toolkit
+- **promote the ecosystem toolkit** as a mechanism to reduce the frictional cost of moving incremental information between parties; reduce the dependency on intermediate information infrastructure; reduce duplication in the administration of information; reduce duplication in the deployment of expertise and inference over that information; reduce the impact of IT on the environment
 - **maintain and evolve the ecosystem toolkit** over time
 
 ## The Ecosystem Toolkit
@@ -29,9 +29,9 @@ OEF will deliver an open and repeatable Ecosystem Toolkit comprising two parts:
 * A [**technical specification**](https://github.com/open-ecosystem-federation/federated-events-attributes-reasoning-alpha/wiki/Draft-Specification) based on open standards
 * A default governance framework we are calling the [**rules of engagement**](https://github.com/open-ecosystem-federation/federated-events-attributes-reasoning-alpha/wiki/Draft-RoE)
 
-Parties use their implementation of the OEF technical specification to declare both the signals that they control and the basis on which they will share them with other OEF compliant implementations. 
+Parties use their implementation of the OEF technical specification to declare both the signals that they control and the basis on which they will share them with other OEF compliant implementations.
 
-The signals capture the reasoning that a party has derived from - or the value they have added to - the information that is available to them about a particular domain of interest. 
+The signals capture the reasoning that a party has derived from - or the value they have added to - the information that is available to them about a particular domain of interest.
 
 Distinct ecosystems emerge when OEF compliant implementations collaborate around a common domain of interest, in line with either the default governance framework or a bespoke governance model that builds on top of the default framework, to share signals.
 
@@ -60,6 +60,7 @@ At the time of writing the core members are:
 
 - Government Digital Service (GDS)
 - Idemia
+- Suffolk Coastal Port Health Authority (PHA)
 - [Recruiting...]
 
 
