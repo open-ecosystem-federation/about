@@ -1,4 +1,6 @@
-# The Open Ecosystem Federation
+# DEPRECATED - The Open Ecosystem Federation
+
+** DEPRECATED - see https://github.com/open-ecosystem-federation/open-ecosystem-federation.github.io **
 
 ## About
 
