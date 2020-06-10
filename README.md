@@ -55,7 +55,6 @@ At the time of writing the core members are:
 
 - Factern
 - Food Standards Agency (FSA)
-- Future Borders
 - HM Revenue and Customs (HMRC)
 
 ### Participants
